@@ -1,8 +1,8 @@
 # Virtual Game Control with AI-Based Body Pose Detection
-This repository showcases a powerful virtual game control system that utilizes AI-based body pose detection. The system provides an immersive gaming experience by allowing players to control games using their body movements and gestures.
+This repository showcases a powerful and dynamic real time virtual game control system that utilizes AI-based body pose detection using computer vision . The system provides an immersive gaming experience by allowing players to control games using their body movements and gestures.
 
 # Features
-AI-powered body pose detection for precise and real-time tracking of player movements
+AI-powered body pose detection for precise and real-time tracking of real time  player movements
 Seamless integration with high GB heavy online game Dauntless (can be customized for any game)
 Intuitive and responsive game control interface driven by cutting-edge AI development
 Highly customizable system adaptable to various game genres and platforms
