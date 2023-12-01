@@ -8,7 +8,7 @@ Intuitive and responsive game control interface driven by cutting-edge AI develo
 Highly customizable system adaptable to various game genres and platforms
 
 # Output
-https://github.com/katzByte007/virtual-game-control-body-pose-detection/assets/94695384/1d4c3dfb-1e9d-4508-8f86-e014768c77cb
+https://github.com/katzByte007/virtual-game-control-body-pose-detection/assets/94695384/739efa17-424d-4e28-8818-8c6005bcc186
 
 # Installation
 To install and use the virtual game control system, follow these steps:
