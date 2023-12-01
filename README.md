@@ -6,6 +6,10 @@ AI-powered body pose detection for precise and real-time tracking of real time  
 Seamless integration with high GB heavy online game Dauntless (can be customized for any game)
 Intuitive and responsive game control interface driven by cutting-edge AI development
 Highly customizable system adaptable to various game genres and platforms
+
+# Output
+https://github.com/katzByte007/virtual-game-control-body-pose-detection/assets/94695384/1d4c3dfb-1e9d-4508-8f86-e014768c77cb
+
 # Installation
 To install and use the virtual game control system, follow these steps:
 
